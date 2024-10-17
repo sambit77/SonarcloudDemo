@@ -10,4 +10,5 @@ public class SonarcloudDemoApplication {
 		SpringApplication.run(SonarcloudDemoApplication.class, args);
 	}
 
+
 }
