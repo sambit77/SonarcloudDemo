@@ -10,5 +10,6 @@ public class AppController {
     public String getMessage()
     {
         return "Hello world";
+
     }
 }
