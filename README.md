@@ -1,6 +1,6 @@
 ### Springboot-Sonarcloud-Demo
 #### App Functionality
-1. When user hits `http://localhost:8080/message` this application return "Hello World" message.
+1. When user hits `http://localhost:8080/message` this application returns "Hello World" message.
 
 ##### Steps to run the application
 
@@ -21,7 +21,7 @@
    </properties>
     ```
 5. Create or update .github/workflows/build.yml (refer sonarcloud website)
-6. Code auality analysis report will be available upon next push 
+6. Code quality analysis report will be available upon next push 
 
 ![Sonarcloud_Dashboard](/sonarcloud.png) 
 
