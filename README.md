@@ -20,6 +20,9 @@
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
    </properties>
     ```
-5. Create or update your .github/workflows/build.yml
+5. Create or update .github/workflows/build.yml (refer sonarcloud website)
+6. Code auality analysis report will be available upon next push 
+
+![Sonarcloud_Dashboard](/sonarcloud.png) 
 
 
